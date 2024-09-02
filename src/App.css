@@ -1,0 +1,16 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.nav{
+  background-color: #14161a;
+  color: aquamarine;
+  /* padding: 0;
+  margin:0; */
+  min-height: 100vh
+};
+
+a{
+  text-decoration: none;
+};
